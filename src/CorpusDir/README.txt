@@ -34,10 +34,8 @@ Command line should look something like this:
 // -Results /results.txt
 // -Fixed 3
 // -Stem true
- 
- 
- I tested my project with 7 HTML files, I was afraid to use 200 as it could take a long time to run. 
- With 7 it was quite fast on an IDE (Eclipse), so maybe it wouldn't be that bad.
+  
+ There are 7 HTML files provided. 
  
  I tried commenting a lot to explain my methods. 
  
