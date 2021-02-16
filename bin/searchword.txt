@@ -1,0 +1,10 @@
+ENGLAND has appeared in 3 file(s): 
+
+SNIPPET FROM DOC /htmlFile1.html:  'HAD MIGRATED FROM ENGLAND TO MASSACHUSETTS '
+
+ ENGLAND appears in /htmlFile101.html 12 times. It appears in these documents: [/htmlFile1.html, /htmlFile8.html, /htmlFile101.html]
+
+ ENGLAND appears in /htmlFile8.html 10 times. It appears in these documents: [/htmlFile1.html, /htmlFile8.html, /htmlFile101.html]
+
+ ENGLAND appears in /htmlFile1.html 1 time. It appears in these documents: [/htmlFile1.html, /htmlFile8.html, /htmlFile101.html]
+
