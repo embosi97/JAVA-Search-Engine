@@ -1,4 +1,4 @@
-My Project has 5 Java files:
+This Project has 5 Java files:
 
 I used a Porter's Stemming Algorithm from this site 
 https://tartarus.org/martin/PorterStemmer/java.txt
@@ -30,11 +30,11 @@ if necessary, if subsequent phases require it.
 
 Command line should look something like this:
 
-// -CorpusDir /eclipse-workspace/335Project1/src/CorpusDir/folderdir
-// -InvertedIndex /eclipse-workspace/335Project1/src/dummy.txt
-// -StopList /eclipse-workspace/335Project1/src/english-stopwords.txt
-// -Queries /eclipse-workspace/335Project1/src/searchword.txt
-// -Results /eclipse-workspace/335Project1/src/results.txt
+// -CorpusDir /folderdir
+// -InvertedIndex /dummy.txt
+// -StopList/english-stopwords.txt
+// -Queries /searchword.txt
+// -Results /results.txt
 // -Fixed 3
 // -Stem true
  
@@ -47,4 +47,4 @@ Command line should look something like this:
  The dummy file is deleted after all is set and done.
  
 
- Thank you and have a happy holidays.
+ Thank you
