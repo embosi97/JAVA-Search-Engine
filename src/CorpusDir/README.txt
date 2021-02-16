@@ -25,9 +25,6 @@ this due to the object class's modified toString().
 
 LINCOLN appears in /eclipse-workspace/335Project1/src/CorpusDir/folderdir/htmlFile8.html 545 times.
 
-It deviates slightly from the instructions but I think it's still an efficient program and can be tweaked,
-if necessary, if subsequent phases require it. 
-
 Command line should look something like this:
 
 // -CorpusDir /folderdir
